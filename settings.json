@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.zip": "default"
+    }
+}
